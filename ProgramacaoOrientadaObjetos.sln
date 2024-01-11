@@ -5,11 +5,19 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Anotacoes", "Anotacoes\Anotacoes.csproj", "{F4E42618-AB56-4544-A966-4E0B3FD5F991}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca", "Heranca\Heranca.csproj", "{8A780229-4156-4A32-B7D2-FF2F9CE583D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranca", "Heranca\Heranca.csproj", "{8A780229-4156-4A32-B7D2-FF2F9CE583D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca1", "Heranca1\Heranca1.csproj", "{F76DDAF2-B98D-4C78-9060-1F4F39DCFB90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranca1", "Heranca1\Heranca1.csproj", "{F76DDAF2-B98D-4C78-9060-1F4F39DCFB90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca2", "Heranca2\Heranca2.csproj", "{FF3C1CF4-A4D4-457E-A083-73B9FECF7A34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranca2", "Heranca2\Heranca2.csproj", "{FF3C1CF4-A4D4-457E-A083-73B9FECF7A34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca3", "Heranca3\Heranca3.csproj", "{57EA4B4F-D24B-4722-BB79-A5DDCA1D5E30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca4", "Heranca4\Heranca4.csproj", "{00FEC3CC-A5FD-4778-9946-C8D41B32438C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca6", "Heranca6\Heranca6.csproj", "{746FA002-EF31-4B73-A945-059E81625133}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca5", "Heranca5\Heranca5.csproj", "{211FA16F-AFAB-4D7E-BC61-4E64A74D7A5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +41,22 @@ Global
 		{FF3C1CF4-A4D4-457E-A083-73B9FECF7A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF3C1CF4-A4D4-457E-A083-73B9FECF7A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF3C1CF4-A4D4-457E-A083-73B9FECF7A34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57EA4B4F-D24B-4722-BB79-A5DDCA1D5E30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57EA4B4F-D24B-4722-BB79-A5DDCA1D5E30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57EA4B4F-D24B-4722-BB79-A5DDCA1D5E30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57EA4B4F-D24B-4722-BB79-A5DDCA1D5E30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00FEC3CC-A5FD-4778-9946-C8D41B32438C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00FEC3CC-A5FD-4778-9946-C8D41B32438C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00FEC3CC-A5FD-4778-9946-C8D41B32438C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00FEC3CC-A5FD-4778-9946-C8D41B32438C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{746FA002-EF31-4B73-A945-059E81625133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{746FA002-EF31-4B73-A945-059E81625133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{746FA002-EF31-4B73-A945-059E81625133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{746FA002-EF31-4B73-A945-059E81625133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{211FA16F-AFAB-4D7E-BC61-4E64A74D7A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{211FA16F-AFAB-4D7E-BC61-4E64A74D7A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{211FA16F-AFAB-4D7E-BC61-4E64A74D7A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{211FA16F-AFAB-4D7E-BC61-4E64A74D7A5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
