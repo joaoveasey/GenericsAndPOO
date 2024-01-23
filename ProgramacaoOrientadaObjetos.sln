@@ -23,9 +23,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HerancaExercicio", "Heranca
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranca7", "Heranca7\Heranca7.csproj", "{9590F0EE-7F9D-4CC9-B2C3-884808F7E741}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operador-Is-As", "HerancaOperador-Is-As\Operador-Is-As.csproj", "{31051A18-E7E1-49D1-B494-3EF9943E03BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operador-Is-As", "HerancaOperador-Is-As\Operador-Is-As.csproj", "{31051A18-E7E1-49D1-B494-3EF9943E03BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModificadorAbstract", "ModificadorAbstract\ModificadorAbstract.csproj", "{EF8012C4-F0D1-4C0D-ADAA-C983F7318CA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModificadorAbstract", "ModificadorAbstract\ModificadorAbstract.csproj", "{EF8012C4-F0D1-4C0D-ADAA-C983F7318CA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{05B23232-DD14-4A10-A86D-27FC6CBAA1B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesExercicio", "InterfacesExercicio\InterfacesExercicio.csproj", "{1B8BBCA1-FC2E-4765-866E-49C3F7ED9318}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{EF8012C4-F0D1-4C0D-ADAA-C983F7318CA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF8012C4-F0D1-4C0D-ADAA-C983F7318CA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF8012C4-F0D1-4C0D-ADAA-C983F7318CA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05B23232-DD14-4A10-A86D-27FC6CBAA1B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05B23232-DD14-4A10-A86D-27FC6CBAA1B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05B23232-DD14-4A10-A86D-27FC6CBAA1B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05B23232-DD14-4A10-A86D-27FC6CBAA1B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B8BBCA1-FC2E-4765-866E-49C3F7ED9318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B8BBCA1-FC2E-4765-866E-49C3F7ED9318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B8BBCA1-FC2E-4765-866E-49C3F7ED9318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B8BBCA1-FC2E-4765-866E-49C3F7ED9318}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
