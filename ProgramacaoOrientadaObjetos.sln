@@ -31,11 +31,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\In
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfacesExercicio", "InterfacesExercicio\InterfacesExercicio.csproj", "{1B8BBCA1-FC2E-4765-866E-49C3F7ED9318}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agregacao", "Agregacao\Agregacao.csproj", "{52A05113-7583-4170-BA9E-B2EB7DCAE539}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Agregacao", "Agregacao\Agregacao.csproj", "{52A05113-7583-4170-BA9E-B2EB7DCAE539}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerancaEComposicaoExemplo", "HerancaEComposicaoExemplo\HerancaEComposicaoExemplo.csproj", "{1DF319F1-7FBE-4BD7-9DD3-F6ED8F987578}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HerancaEComposicaoExemplo", "HerancaEComposicaoExemplo\HerancaEComposicaoExemplo.csproj", "{1DF319F1-7FBE-4BD7-9DD3-F6ED8F987578}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfismo", "Polimorfismo\Polimorfismo.csproj", "{99CF15D6-23E5-44B7-8743-12E748757428}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polimorfismo", "Polimorfismo\Polimorfismo.csproj", "{99CF15D6-23E5-44B7-8743-12E748757428}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciosPOO", "ExerciciosPOO\ExerciciosPOO.csproj", "{B2A8E849-6AB8-4453-A3EE-2AF85D0110E9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{99CF15D6-23E5-44B7-8743-12E748757428}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99CF15D6-23E5-44B7-8743-12E748757428}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99CF15D6-23E5-44B7-8743-12E748757428}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2A8E849-6AB8-4453-A3EE-2AF85D0110E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A8E849-6AB8-4453-A3EE-2AF85D0110E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A8E849-6AB8-4453-A3EE-2AF85D0110E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A8E849-6AB8-4453-A3EE-2AF85D0110E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

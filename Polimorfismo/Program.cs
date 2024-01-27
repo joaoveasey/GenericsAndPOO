@@ -1,47 +1,46 @@
 // polimorfismo = as classes derivadas de uma mesma classe base podem invocar métodos que tem a mesma assinatura mas comportamentos distintos, que são
 // especializados para cada classe derivada, usando para tanto uma referência a um objeto do tipo da classe base.
 
-using System.Net.Http.Headers;
 
 //polimorfismo com herança : 
 
-//var figuras = new List<Figura>
-//{
-//    new Triangulo(),
-//    new Circulo()
-//};
+var figuras = new List<Figura>
+{
+    new Triangulo(),
+    new Circulo()
+};
 
-//foreach (var figura in figuras)
-//{
-//    figura.Desenhar();
-//}
+foreach (var figura in figuras)
+{
+figura.Desenhar();
+}
 
-//Console.ReadKey();
+Console.ReadKey();
 
-//public class Figura
-//{
-//    public virtual void Desenhar()
-//    {
-//        Console.WriteLine("Desenhando na classe base...");
-//    }
-//}
+public class Figura
+{
+    public virtual void Desenhar()
+    {
+        Console.WriteLine("Desenhando na classe base...");
+    }
+}
 
-//public class Circulo : Figura
-//{
-//    public override void Desenhar()
-//    {
-//        Console.WriteLine("Desenhando um círculo...");
-//    }
-//}
+public class Circulo : Figura
+{
+    public override void Desenhar()
+    {
+        Console.WriteLine("Desenhando um círculo...");
+    }
+}
 
-//public class Triangulo : Figura
-//{
-//    public override void Desenhar()
-//    {
-//        Console.WriteLine("Desenhando um triângulo...");
-//        base.Desenhar();
-//    }
-//}
+public class Triangulo : Figura
+{
+    public override void Desenhar()
+    {
+        Console.WriteLine("Desenhando um triângulo...");
+        base.Desenhar();
+    }
+}
 
 
 //polimorfismo em tempo de compilação (sobrecarga de métodos) :
