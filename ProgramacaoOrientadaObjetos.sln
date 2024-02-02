@@ -39,7 +39,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polimorfismo", "Polimorfism
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerciciosPOO", "ExerciciosPOO\ExerciciosPOO.csproj", "{B2A8E849-6AB8-4453-A3EE-2AF85D0110E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio1", "Exercicio1\Exercicio1.csproj", "{E7A0BD0B-3F95-4D6A-866B-3784C99EEBC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio1", "Exercicio1\Exercicio1.csproj", "{E7A0BD0B-3F95-4D6A-866B-3784C99EEBC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio2", "Exercicio2\Exercicio2.csproj", "{56FE684A-426A-4624-8497-14FD43DACFE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio3", "Exercicio3\Exercicio3.csproj", "{C46AAC20-9DF2-45F1-86FA-5F08872FD8B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +127,14 @@ Global
 		{E7A0BD0B-3F95-4D6A-866B-3784C99EEBC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7A0BD0B-3F95-4D6A-866B-3784C99EEBC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7A0BD0B-3F95-4D6A-866B-3784C99EEBC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56FE684A-426A-4624-8497-14FD43DACFE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56FE684A-426A-4624-8497-14FD43DACFE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56FE684A-426A-4624-8497-14FD43DACFE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56FE684A-426A-4624-8497-14FD43DACFE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C46AAC20-9DF2-45F1-86FA-5F08872FD8B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C46AAC20-9DF2-45F1-86FA-5F08872FD8B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C46AAC20-9DF2-45F1-86FA-5F08872FD8B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C46AAC20-9DF2-45F1-86FA-5F08872FD8B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
